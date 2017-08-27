@@ -1,1 +1,1 @@
-"# KMS_SQL" 
+This folder contains an SQL version of Kms
